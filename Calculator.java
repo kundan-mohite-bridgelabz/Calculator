@@ -1,6 +1,6 @@
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println("Hellow World");
+        System.out.println("Hellow Calculator");
         Calculator obj = new Calculator();
         obj.add(5,10);
     }
